@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://readingkidsconnect.github.io/readingkidsconnect/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/</loc>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/contact/</loc>
+<lastmod>2020-07-25T13:47:54-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/home/</loc>
+<lastmod>2020-07-25T02:10:07-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/how-it-works/</loc>
+<lastmod>2020-07-25T13:48:14-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/mission/</loc>
+<lastmod>2020-07-25T02:17:44-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/newsletter/</loc>
+<lastmod>2020-07-25T13:47:43-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/page/2/</loc>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/team/</loc>
+<lastmod>2020-07-25T11:55:52-07:00</lastmod>
+</url>
+<url>
+<loc>https://readingkidsconnect.github.io/readingkidsconnect/testimonials/</loc>
+<lastmod>2020-07-25T13:48:05-07:00</lastmod>
+</url>
+</urlset>

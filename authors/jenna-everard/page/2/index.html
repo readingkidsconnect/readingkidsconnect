@@ -1,0 +1,76 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Author: Jenna Everard - ReadingKidsConnect</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://readingkidsconnect.github.io/readingkidsconnect/feed.xml"><link rel="alternate" type="application/json" href="https://readingkidsconnect.github.io/readingkidsconnect/feed.json"><meta property="og:title" content="Jenna Everard"><meta property="og:image" content="https://readingkidsconnect.github.io/readingkidsconnect/media/website/Logo_Transparent.png"><meta property="og:site_name" content="ReadingKidsConnect"><meta property="og:description" content=""><meta property="og:url" content="https://readingkidsconnect.github.io/readingkidsconnect/authors/jenna-everard/page/2/"><meta property="og:type" content="website"><link rel="prev" href="https://readingkidsconnect.github.io/readingkidsconnect/authors/jenna-everard/"><style>:root{--body-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--heading-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--logo-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";--menu-font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"}</style><link rel="stylesheet" href="https://readingkidsconnect.github.io/readingkidsconnect/assets/css/style.css?v=a23b1d64d68fcbea0a54e21ca2ce5e21"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"ReadingKidsConnect","logo":"https://readingkidsconnect.github.io/readingkidsconnect/media/website/Logo_Transparent.png","url":"https://readingkidsconnect.github.io/readingkidsconnect/"}</script><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><style>.homepageBanner {
+		background-color: #d1d7dd;
+		width: 100%;
+		padding: 20px 0;
+        padding-bottom: 40px;
+	}</style><script>var counter =  0;
+  	var timer;
+
+	window.onload = function() {
+		var i;
+		var numbers = document.getElementsByClassName("number");
+		for (i = 0; i<numbers.length; i++) {
+			var filling = parseInt(numbers[i].innerHTML);
+			if(filling - 10 < 0) {
+				numbers[i].classList.add("noCounter");
+				numbers[i].setAttribute("id", ""+filling);
+				numbers[i].innerHTML = '' + 0;
+			}
+			else {
+				numbers[i].innerHTML = '' + (filling-10);
+			}
+		}
+		timer = setTimeout(increaseNumbers, 800);
+	}
+	
+	function increaseNumbers() {
+		counter++;
+		if(counter > 10) {
+			clearTimeout(timer);
+		}
+		else {
+			var i;
+			var numbers = document.getElementsByClassName("number");
+			for (i = 0; i<numbers.length; i++) {
+				var filling = parseInt(numbers[i].innerHTML);
+				if(numbers[i].classList.contains("noCounter")) {
+					var id = parseInt(numbers[i].id);
+					numbers[i].setAttribute("id", ""+(id+1));
+					if (id - (10-counter) > 0) {
+						numbers[i].classList.remove("noCounter")
+						numbers[i].innerHTML = '' + (filling);
+					}
+				}
+				else {
+					numbers[i].innerHTML = '' + (filling+1);
+				}
+			}
+			if(counter > 5) {
+				timer = setTimeout(increaseNumbers, 1500);
+			}
+			else {
+				timer = setTimeout(increaseNumbers, 800);
+			}
+			
+		}
+		
+	}</script><link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css"><style type="text/css">#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */</style></head><body><div class="site-container"><header class="top" id="js-header"><a class="logo" href="https://readingkidsconnect.github.io/readingkidsconnect/"><img src="https://readingkidsconnect.github.io/readingkidsconnect/media/website/Logo_Transparent.png" alt="ReadingKidsConnect"></a><nav class="navbar js-navbar"><button class="navbar__toggle js-toggle" aria-label="Menu" aria-haspopup="true" aria-expanded="false"><span class="navbar__toggle-box"><span class="navbar__toggle-inner">Menu</span></span></button><ul class="navbar__menu"><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/" target="_self">Home</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/mission/" target="_self">Mission</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/team/" target="_self">Team</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/how-it-works/" target="_self">How It Works</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/testimonials/" target="_self">Testimonials</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/contact/" target="_self">Contact</a></li><li class="menuItem"><a href="https://readingkidsconnect.github.io/readingkidsconnect/newsletter/" target="_self">Newsletter</a></li><li class="menuLinkButton"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdoN34-s1pqWOnsTT3wewZaC1TndH0oqt3XRminmngjuhJqlQ/viewform" target="_blank">Find a Mentor</a></li><li class="menuLinkButtonB"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfF9KZOpFSQhlPjpcOo8sC_4IG9Qf7TUCy0G0MYQjgsajcXlQ/viewform" target="_blank">Become a Mentor</a></li></ul></nav></header><main><div class="hero"><header class="hero__content"><div class="wrapper"><h1>Jenna Everard <sup>(7)</sup></h1></div></header></div><div class="feed"><article class="feed__item"><header class="wrapper"><h2><a href="https://readingkidsconnect.github.io/readingkidsconnect/mission/" class="invert">Mission</a></h2></header><div class="wrapper"><p>Mission Some Quote for Emphasis Mission Statement Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a metus eu urna pretium consectetur. Proin quis diam ut purus imperdiet molestie sit amet a elit. Quisque fringilla, libero sit amet ultricies ornare, leo ex tempus urna, ac&hellip;</p></div></article><article class="feed__item"><header class="wrapper"><h2><a href="https://readingkidsconnect.github.io/readingkidsconnect/home/" class="invert">Home</a></h2></header><div class="wrapper"><p>Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE! 52 Mentor Matches 123 Sessions 42 [Placeholder] 7 [Placeholder]</p></div></article><nav class="wrapper pagination desc"><div class="pagination__item"><a href="https://readingkidsconnect.github.io/readingkidsconnect/authors/jenna-everard/" class="readmore">Next </a><svg width="1.041em" height="0.416em" aria-hidden="true"><use xlink:href="https://readingkidsconnect.github.io/readingkidsconnect/assets/svg/svg-map.svg#arrow-next"/></svg></div></nav></div></main><footer class="footer"><div class="footer__copyright"><p>Powered by <a href="https://getpublii.com" target="_blank" rel="nofollow noopener">Publii Static CMS</a></p><p><a href="https://jennaeverard.github.io/ReadingKidsConnectDraft/privacy-policy/">Privacy Policy</a></p></div><button class="footer__bttop js-footer__bttop" aria-label="Back to top"><svg><title>Back to top</title><use xlink:href="https://readingkidsconnect.github.io/readingkidsconnect/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script>window.publiiThemeMenuConfig = {    
+        mobileMenuMode: 'sidebar',
+        animationSpeed: 300,
+        submenuWidth: 'auto',
+        doubleClickTime: 500,
+        mobileMenuExpandableSubmenus: true, 
+        relatedContainerForOverlayMenuSelector: '.top',
+   };</script><script defer="defer" src="https://readingkidsconnect.github.io/readingkidsconnect/assets/js/scripts.min.js?v=f4c4d35432d0e17d212f2fae4e0f8247"></script><script>var images = document.querySelectorAll('img[loading]');
+
+        for (var i = 0; i < images.length; i++) {
+            if (images[i].complete) {
+                images[i].classList.add('is-loaded');
+            } else {
+                images[i].addEventListener('load', function () {
+                    this.classList.add('is-loaded');
+                }, false);
+            }
+        }</script></body></html>
