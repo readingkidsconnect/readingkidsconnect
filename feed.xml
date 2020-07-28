@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>ReadingKidsConnect</title>
-    <link href="https://readingkidsconnect.github.io/readingkidsconnect/feed.xml" rel="self" />
-    <link href="https://readingkidsconnect.github.io/readingkidsconnect" />
+    <link href="https://readingkidsconnect.org/feed.xml" rel="self" />
+    <link href="https://readingkidsconnect.org" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Jenna Everard</name>
     </author>
-    <id>https://readingkidsconnect.github.io/readingkidsconnect</id>
+    <id>https://readingkidsconnect.org</id>
 
     <entry>
         <title>Newsletter</title>
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/newsletter/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/newsletter/</id>
+        <link href="https://readingkidsconnect.org/newsletter/"/>
+        <id>https://readingkidsconnect.org/newsletter/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Newsletter 07/15/2020 - 07/28/2020 [I Can't find link for 3rd] 06/15/2020 - 06/29/2020 06/01/2020 - 06/14/2020
@@ -61,10 +61,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/contact/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/contact/</id>
+        <link href="https://readingkidsconnect.org/contact/"/>
+        <id>https://readingkidsconnect.org/contact/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Contact 
@@ -88,10 +88,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/testimonials/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/testimonials/</id>
+        <link href="https://readingkidsconnect.org/testimonials/"/>
+        <id>https://readingkidsconnect.org/testimonials/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Testimonials Quote from Person A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a metus eu urna pretium consectetur. Proin quis diam ut purus imperdiet molestie sit amet a elit. Quisque fringilla, libero sit amet ultricies ornare, leo ex tempus urna, ac egestas turpis&hellip;
@@ -126,10 +126,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/how-it-works/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/how-it-works/</id>
+        <link href="https://readingkidsconnect.org/how-it-works/"/>
+        <id>https://readingkidsconnect.org/how-it-works/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     How It Works Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a metus eu urna pretium consectetur. Proin quis diam ut purus imperdiet molestie sit amet a elit. Quisque fringilla, libero sit amet ultricies ornare, leo ex tempus urna, ac egestas turpis dui id&hellip;
@@ -155,10 +155,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/team/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/team/</id>
+        <link href="https://readingkidsconnect.org/team/"/>
+        <id>https://readingkidsconnect.org/team/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Team Maecenas dictum orci non odio semper, vel suscipit ante suscipit. Morbi vitae nunc eros. Curabitur id dui odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non sollicitudin elit, at bibendum urna. In dignissim pharetra tincidunt. Praesent nec&hellip;
@@ -201,10 +201,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/mission/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/mission/</id>
+        <link href="https://readingkidsconnect.org/mission/"/>
+        <id>https://readingkidsconnect.org/mission/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Mission Some Quote for Emphasis Mission Statement Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a metus eu urna pretium consectetur. Proin quis diam ut purus imperdiet molestie sit amet a elit. Quisque fringilla, libero sit amet ultricies ornare, leo ex tempus urna, ac&hellip;
@@ -238,10 +238,10 @@
         <author>
             <name>Jenna Everard</name>
         </author>
-        <link href="https://readingkidsconnect.github.io/readingkidsconnect/home/"/>
-        <id>https://readingkidsconnect.github.io/readingkidsconnect/home/</id>
+        <link href="https://readingkidsconnect.org/home/"/>
+        <id>https://readingkidsconnect.org/home/</id>
 
-        <updated>2020-07-27T16:27:33-07:00</updated>
+        <updated>2020-07-27T19:10:50-07:00</updated>
             <summary>
                 <![CDATA[
                     Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE! 52 Mentor Matches 123 Sessions 42 [Placeholder] 7 [Placeholder]
