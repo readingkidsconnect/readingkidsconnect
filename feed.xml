@@ -17,7 +17,7 @@
         <link href="https://readingkidsconnect.org/newsletter/"/>
         <id>https://readingkidsconnect.org/newsletter/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     Newsletter 07/15/2020 - 07/28/2020 07/01/2020 - 07/14/2020 06/15/2020 - 06/29/2020 06/01/2020 - 06/14/2020
@@ -64,7 +64,7 @@
         <link href="https://readingkidsconnect.org/contact/"/>
         <id>https://readingkidsconnect.org/contact/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     ContactEmail us: readingkidsconnect@gmail.comFind us on Facebook: 
@@ -92,7 +92,7 @@
         <link href="https://readingkidsconnect.org/testimonials/"/>
         <id>https://readingkidsconnect.org/testimonials/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     Testimonials Quote from Person A Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam a metus eu urna pretium consectetur. Proin quis diam ut purus imperdiet molestie sit amet a elit. Quisque fringilla, libero sit amet ultricies ornare, leo ex tempus urna, ac egestas turpis&hellip;
@@ -130,7 +130,7 @@
         <link href="https://readingkidsconnect.org/how-it-works/"/>
         <id>https://readingkidsconnect.org/how-it-works/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     How It Works: Finding a Mentor How It Works: Becoming a MentorYou fill out a Google form. We'll get some basic information about you, your interests, and your experience.You have a short, virtual interview where we ask you a few questions about your experience and&hellip;
@@ -171,7 +171,7 @@
         <link href="https://readingkidsconnect.org/team/"/>
         <id>https://readingkidsconnect.org/team/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     Team Maecenas dictum orci non odio semper, vel suscipit ante suscipit. Morbi vitae nunc eros. Curabitur id dui odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non sollicitudin elit, at bibendum urna. In dignissim pharetra tincidunt. Praesent nec&hellip;
@@ -185,25 +185,28 @@
 </div>
 <div class="teamPageContent">
 <div class="thebios">
-<figure><figure class="bioimage"><img loading="lazy"  src="https://readingkidsconnect.org/media/posts/3/20190409_161551407_iOS.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-xs.jpg 300w ,https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-sm.jpg 480w ,https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-md.jpg 768w ,https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-lg.jpg 1024w ,https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-xl.jpg 1360w ,https://readingkidsconnect.org/media/posts/3/responsive/20190409_161551407_iOS-2xl.jpg 1600w" ></figure>
 <div class="Bio">
+<div class="bioimage image1"><figure class="post__image"><img loading="lazy"  src="https://readingkidsconnect.org/media/posts/3/FillerImage.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-xs.jpg 300w ,https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-sm.jpg 480w ,https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-md.jpg 768w ,https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-lg.jpg 1024w ,https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-xl.jpg 1360w ,https://readingkidsconnect.org/media/posts/3/responsive/FillerImage-2xl.jpg 1600w"  width="673" height="673"></figure></div>
 <h3 class="name">NAME</h3>
 <h5 class="position">Position</h5>
 <p class="bioInfo">Maecenas dictum orci non odio semper, vel suscipit ante suscipit. Morbi vitae nunc eros. Curabitur id dui odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non sollicitudin elit, at bibendum urna. In dignissim pharetra tincidunt. Praesent nec eros fringilla, congue felis tincidunt, faucibus purus. Donec sed nisi eros.</p>
 </div>
 <div class="Bio">
-<figure class="bioimage"><img loading="lazy" src="#TBD" data-is-external-image="true" ></figure>
+<div class="bioimage image2">
+<figure class="biofigure"><img loading="lazy" src="#TBD" data-is-external-image="true" ></figure>
+</div>
 <h3 class="name">AUTUMN HENDRICKSON</h3>
 <h5 class="position">Assistant Director</h5>
 <p class="bioInfo">Autumn Hendrickson joined the team in early June and has been working with Madeline Liberman ever since. As an assistant director, Autumn does a little bit of a lot of things, from helping to take notes during meetings, to writing emails and occasionally posting for social media, and contributing to the Reading Kids Connect newsletter. She will be attending Endicott College majoring in English Secondary Education.</p>
 </div>
 <div class="Bio">
-<figure class="bioimage"><img loading="lazy" src="#TBD" data-is-external-image="true" ></figure>
+<div class="bioimage image3">
+<figure class="biofigure"><img loading="lazy" src="#TBD" data-is-external-image="true" ></figure>
+</div>
 <h3 class="name">NAME</h3>
 <h5 class="position">Position</h5>
 <p class="bioInfo">Maecenas dictum orci non odio semper, vel suscipit ante suscipit. Morbi vitae nunc eros. Curabitur id dui odio. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris non sollicitudin elit, at bibendum urna. In dignissim pharetra tincidunt. Praesent nec eros fringilla, congue felis tincidunt, faucibus purus. Donec sed nisi eros.</p>
 </div>
-</figure>
 </div>
 </div>
 </div>
@@ -218,7 +221,7 @@
         <link href="https://readingkidsconnect.org/mission/"/>
         <id>https://readingkidsconnect.org/mission/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     Mission A mentor is someone who allows you to see the hope inside yourself. - Oprah Winfrey Mission Statement We are a group of Reading residents participating in a mentorship program to better ourselves and our community. Originally, we started this to provide a way&hellip;
@@ -256,7 +259,7 @@
         <link href="https://readingkidsconnect.org/home/"/>
         <id>https://readingkidsconnect.org/home/</id>
 
-        <updated>2020-07-30T20:10:07-07:00</updated>
+        <updated>2020-07-30T22:21:05-07:00</updated>
             <summary>
                 <![CDATA[
                     Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE! A friendly older student to talk to Personal and academic advice Creative and engaging activities Homework help Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor&hellip;
