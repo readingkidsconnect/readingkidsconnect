@@ -21,22 +21,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/contact/",
             "url": "https://readingkidsconnect.org/contact/",
             "title": "Contact",
-            "summary": "ContactEmail us: readingkidsconnect@gmail.com ",
-            "content_html": "<div class=\"body\">\n<div class=\"titleDiv\">\n<p class=\"pageHeader\">Contact</p>\n</div>\n<div class=\"pageContent\">\n<div>Email us: <a href=\"mailto:readingkidsconnect@gmail.com\">readingkidsconnect@gmail.com</a></div>\n<div> </div>\n</div>\n</div>",
+            "summary": "ContactEmail us at readingkidsconnect@gmail.com or fill out the form below.Loading… ",
+            "content_html": "<div class=\"body\">\n<div class=\"titleDiv\">\n<p class=\"pageHeader\">Contact</p>\n</div>\n<div class=\"pageContent\">\n<div>Email us at <a href=\"mailto:readingkidsconnect@gmail.com\">readingkidsconnect@gmail.com</a> or fill out the form below.</div>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"1200px\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSc1-DpCsyIrvaeqBhkhHbg3eEE6wVm5WVMOQtq5F88Onu2uBQ/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading…</iframe></div>\n<div> </div>\n</div>\n</div>",
             "author": {
                 "name": "Jenna Everard"
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/testimonials/",
@@ -49,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/how-it-works/",
@@ -63,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/team/",
@@ -77,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/mission/",
@@ -91,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/home/",
@@ -105,8 +105,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-07-31T11:12:18-07:00",
-            "date_modified": "2020-07-31T11:12:18-07:00"
+            "date_published": "2020-08-05T13:09:34-07:00",
+            "date_modified": "2020-08-05T13:09:34-07:00"
         }
     ]
 }
