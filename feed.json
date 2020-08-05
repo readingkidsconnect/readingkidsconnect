@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://readingkidsconnect.org/privacy-policy/",
+            "url": "https://readingkidsconnect.org/privacy-policy/",
+            "title": "Privacy Policy",
+            "summary": "**Insert Privacy Policy Text here**",
+            "content_html": "<p>**Insert Privacy Policy Text here**</p>",
+            "author": {
+                "name": "Jenna Everard"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
+        },
+        {
             "id": "https://readingkidsconnect.org/newsletter/",
             "url": "https://readingkidsconnect.org/newsletter/",
             "title": "Newsletter",
@@ -21,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/contact/",
@@ -35,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/testimonials/",
@@ -49,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/how-it-works/",
@@ -63,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/team/",
@@ -77,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/mission/",
@@ -91,8 +105,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/home/",
@@ -105,8 +119,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:15:33-07:00",
-            "date_modified": "2020-08-05T13:15:33-07:00"
+            "date_published": "2020-08-05T13:28:29-07:00",
+            "date_modified": "2020-08-05T13:28:29-07:00"
         }
     ]
 }
