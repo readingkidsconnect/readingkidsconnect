@@ -14,15 +14,15 @@
             "id": "https://readingkidsconnect.org/privacy-policy/",
             "url": "https://readingkidsconnect.org/privacy-policy/",
             "title": "Privacy Policy",
-            "summary": "**Insert Privacy Policy Text here**",
-            "content_html": "<p>**Insert Privacy Policy Text here**</p>",
+            "summary": "Privacy Policy For the purposes of this document, “we” refers to Reading Kids Connect. At Reading Kids Connect, we are committed above all to the safety and privacy of all participants. What personal information does Reading Kids Connect collect? How do we use personal information?&hellip;",
+            "content_html": "<div class=\"titleDiv\">\n<p class=\"pageHeader\">Privacy Policy</p>\n</div>\n<div class=\"pageContent\">\n<p><span style=\"font-weight: 400;\">For the purposes of this document, “we” refers to Reading Kids Connect.</span></p>\n<p><span style=\"font-weight: 400;\">At Reading Kids Connect, we are committed above all to the safety and privacy of all participants. </span></p>\n<p><strong>What personal information does Reading Kids Connect collect?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Personal information is only collected directly from online application forms.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Personal information about children under 13 is collected from parents. Personal information is collected from minors over 13 after obtaining parental consent. </span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">We collect the following information from participants over 13 or parents of participants under 13: </span>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Contact information (name, age, email address, phone number)</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Parent/guardian name, email address, and phone number (if under 18)</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Matching information (including Internet access, skills, hobbies/interests, age preference, availability) </span></li>\n</ul>\n</li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">We collect the minimum information necessary to match and contact participants.</span></li>\n</ul>\n<p> </p>\n<p><strong>How do we use personal information?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">We use personal information only to match and contact participants, so that all parties can have the best possible experience.</span></li>\n</ul>\n<p> </p>\n<p><strong>Who is personal information shared with?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Mentees’ information (first name, age, parent/guardian name, email address, phone number, and a general introduction) will be shared with the mentor. Mentors’ information (full name, email address, phone number, and a general introduction) will be shared with the family of the mentee. </span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">If we suspect illegal behavior or threats to the health and safety of any individuals, we reserve the right to share any user’s information with the appropriate legal authorities so that the situation can be investigated and prevented. </span></li>\n</ul>\n<p> </p>\n<p><strong>Is personal information collected during video sessions with mentors?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Video sessions are </span><strong>never</strong><span style=\"font-weight: 400;\"> recorded. No photographs or audio/video recordings will be taken of participants.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Reading Kids Connect is not responsible for any information that a mentee or their family chooses to share with their mentor after they are matched. Likewise, we are not responsible for any information that a mentor chooses to share with their mentee or mentee’s family after they are matched. However, mentors must sign an agreement that they will not disclose any information about mentees or their families that they may learn from video sessions except in the cases described above.</span></li>\n</ul>\n<p> </p>\n<p><strong>When will I be contacted by Reading Kids Connect?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">‍We will contact parents or mentees over 13 only for the following reasons:</span>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Pairing you with a mentor</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Notifying you of any changes in our policies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Providing you with additional information about this program</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Responding to any questions or concerns you may have</span></li>\n</ul>\n</li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">We will contact mentors only for the following reasons:</span>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Scheduling your initial interview and volunteer trainings</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Matching you with a mentee</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Following up on video sessions </span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Notifying you of any changes in our policies</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Responding to any questions or concerns you may have </span></li>\n</ul>\n</li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">If you no longer want us to contact you or you no longer wish to participate, please email readingkidsconnect@gmail.com.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">We do not use your personal contact information to send you any unsolicited information, and we do not provide it to third parties.</span></li>\n</ul>\n<p> </p>\n<p><strong>Who maintains personal information at Reading Kids Connect? Who can I contact to update or remove my or my child’s personal information?</strong></p>\n<ul>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">A participant or their parent or guardian can update their or their child’s information or end participation in the program at any time. </span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Participants’ information will be maintained in password-protected files.</span></li>\n<li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Personal information is maintained by authorized staff of Reading Kids Connect. For all inquiries about personal information or about this privacy policy, please email readingkidsconnect@gmail.com.</span></li>\n</ul>\n<p><br><br></p>\n</div>\n<p>\n<script>\nfunction myFunction() {\n  var x = new Date(document.lastModified);\n  document.getElementById(\"demo\").innerHTML = x;\n}\n</script>\n</p>",
             "author": {
                 "name": "Jenna Everard"
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/newsletter/",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/contact/",
@@ -49,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/testimonials/",
@@ -63,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/how-it-works/",
@@ -77,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/team/",
@@ -91,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/mission/",
@@ -105,22 +105,22 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         },
         {
             "id": "https://readingkidsconnect.org/home/",
             "url": "https://readingkidsconnect.org/home/",
             "title": "Home",
-            "summary": "Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE! A friendly older student to talk to Personal and academic advice Creative and engaging activities Homework help Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor&hellip;",
-            "content_html": "<div class=\"body\">\n<div class=\"homepageBanner\">\n<p class=\"aroundTitle\">Join the</p>\n<h1 class=\"pageTitle\">Reading Kids Connect</h1>\n<p class=\"aroundTitle\">Community</p>\n<p class=\"description\">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>\n<p class=\"weCanProvide\">WE CAN PROVIDE!</p>\n<p class=\"align-center\">A friendly older student to talk to</p>\n<p class=\"align-center\">Personal and academic advice</p>\n<p class=\"align-center\">Creative and engaging activities</p>\n<p class=\"align-center\">Homework help</p>\n<p class=\"align-center\">Enjoyable, personalized extracurricular learning</p>\n<p class=\"align-center\">LGBTQ+ mentorships</p>\n</div>\n<div id=\"statistics\">\n<div class=\"statDiv\"><i class=\"fa fa-users icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">35</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Mentor Matches</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-calendar icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">150</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Sessions</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-hourglass-half icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">12</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Days to match, on average</p>\n</div>\n</div>\n</div>",
+            "summary": "Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE: A friendly older student to talk to Personal and academic advice Creative and engaging activities Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor Matches 150&hellip;",
+            "content_html": "<div class=\"body\">\n<div class=\"homepageBanner\">\n<p class=\"aroundTitle\">Join the</p>\n<h1 class=\"pageTitle\">Reading Kids Connect</h1>\n<p class=\"aroundTitle\">Community</p>\n<p class=\"description\">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>\n<p class=\"weCanProvide\">WE CAN PROVIDE:</p>\n<p class=\"align-center\">A friendly older student to talk to</p>\n<p class=\"align-center\">Personal and academic advice</p>\n<p class=\"align-center\">Creative and engaging activities</p>\n<p class=\"align-center\">Enjoyable, personalized extracurricular learning</p>\n<p class=\"align-center\">LGBTQ+ mentorships</p>\n</div>\n<div id=\"statistics\">\n<div class=\"statDiv\"><i class=\"fa fa-users icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">35</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Mentor Matches</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-calendar icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">150</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Sessions</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-hourglass-half icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">12</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Days to match, on average</p>\n</div>\n</div>\n</div>",
             "author": {
                 "name": "Jenna Everard"
             },
             "tags": [
             ],
-            "date_published": "2020-08-05T13:33:53-07:00",
-            "date_modified": "2020-08-05T13:33:53-07:00"
+            "date_published": "2020-08-07T18:31:34-04:00",
+            "date_modified": "2020-08-07T18:31:34-04:00"
         }
     ]
 }
