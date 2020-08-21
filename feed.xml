@@ -10,6 +10,56 @@
     <id>https://readingkidsconnect.org</id>
 
     <entry>
+        <title>Home</title>
+        <author>
+            <name>Jenna Everard</name>
+        </author>
+        <link href="https://readingkidsconnect.org/home/"/>
+        <id>https://readingkidsconnect.org/home/</id>
+
+        <updated>2020-08-21T18:19:29-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE: A friendly older student to talk to Personal and academic advice Creative and engaging activities Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor Matches 150&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="body">
+<div class="homepageBanner">
+<p class="aroundTitle">Join the</p>
+<h1 class="pageTitle">Reading Kids Connect</h1>
+<p class="aroundTitle">Community</p>
+<p class="description">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>
+<p class="weCanProvide">WE CAN PROVIDE:</p>
+<p class="align-center">A friendly older student to talk to</p>
+<p class="align-center">Personal and academic advice</p>
+<p class="align-center">Creative and engaging activities</p>
+<p class="align-center">Enjoyable, personalized extracurricular learning</p>
+<p class="align-center">LGBTQ+ mentorships</p>
+</div>
+<div id="statistics">
+<div class="statDiv"><i class="fa fa-users icon" aria-hidden="true"></i>
+<p class="number">35</p>
+<div class="line"> </div>
+<p class="numberlabel">Mentor Matches</p>
+</div>
+<div class="statDiv"><i class="fa fa-calendar icon" aria-hidden="true"></i>
+<p class="number">150</p>
+<div class="line"> </div>
+<p class="numberlabel">Sessions</p>
+</div>
+<div class="statDiv"><i class="fa fa-hourglass-half icon" aria-hidden="true"></i>
+<p class="number">12</p>
+<div class="line"> </div>
+<p class="numberlabel">Days to match, on average</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Privacy Policy</title>
         <author>
             <name>Jenna Everard</name>
@@ -17,7 +67,7 @@
         <link href="https://readingkidsconnect.org/privacy-policy/"/>
         <id>https://readingkidsconnect.org/privacy-policy/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     Privacy Policy For the purposes of this document, “we” refers to Reading Kids Connect. At Reading Kids Connect, we are committed above all to the safety and privacy of all participants. What personal information does Reading Kids Connect collect? How do we use personal information?&hellip;
@@ -112,7 +162,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/newsletter/"/>
         <id>https://readingkidsconnect.org/newsletter/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     Newsletter Stay up to date! Our newsletter has the latest updates from Reading Kids Connect, as well as articles, activities, and event information. 07/29/2020 - 08/11/2020 07/15/2020 - 07/28/2020 07/01/2020 - 07/14/2020 06/15/2020 - 06/29/2020 06/01/2020 - 06/14/2020
@@ -162,7 +212,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/contact/"/>
         <id>https://readingkidsconnect.org/contact/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     ContactEmail us at readingkidsconnect@gmail.com or fill out the form below.Loading… 
@@ -192,7 +242,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/testimonials/"/>
         <id>https://readingkidsconnect.org/testimonials/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     Testimonials My son really enjoys learning and playing games with his mentor. Alexa has gone above and beyond anything I expected. We are so grateful for her. She is an amazing role model and I would consider her part of our family now, she is&hellip;
@@ -228,7 +278,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/how-it-works/"/>
         <id>https://readingkidsconnect.org/how-it-works/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     How It Works Finding a Mentor Becoming a MentorYou fill out a Google form. We'll get some basic information about you, your interests, and your experience.You have a short, virtual interview where we ask you a few questions about your experience and interests and tell&hellip;
@@ -271,7 +321,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/team/"/>
         <id>https://readingkidsconnect.org/team/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     Team Madeline Liberman founded Reading Kids Connect in May of 2020. As Director, she is responsible for intake and support of mentors and mentees, administration, and development. Madeline is also a mentor with the virtual mentorship program Hearts Over Hands. In high school, she was&hellip;
@@ -293,9 +343,15 @@ function myFunction() {
 </div>
 <div class="Bio">
 <div class="bioimage image2"><figure class="post__image"><img loading="lazy"  src="https://readingkidsconnect.org/media/posts/3/AutumnWebsite.JPG" sizes="(max-width: 48em) 100vw, 768px" srcset="https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-xs.JPG 300w ,https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-sm.JPG 480w ,https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-md.JPG 768w ,https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-lg.JPG 1024w ,https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-xl.JPG 1360w ,https://readingkidsconnect.org/media/posts/3/responsive/AutumnWebsite-2xl.JPG 1600w"  width="702" height="1053"></figure></div>
-<h3 class="name">AUTUMN HENDRICKSON</h3>
+<h3 class="name">Autumn Hendrickson</h3>
 <h5 class="position">Assistant Director</h5>
 <p class="bioInfo">Autumn Hendrickson joined the team in early June and has been working with Madeline Liberman ever since. As an assistant director, Autumn does a little bit of a lot of things, from helping to take notes during meetings, to writing emails and occasionally posting for social media, and contributing to the Reading Kids Connect newsletter. She will be attending Endicott College majoring in English Secondary Education.</p>
+</div>
+<div class="Bio">
+<div class="bioimage image3"><figure class="post__image"><img loading="lazy"  src="https://readingkidsconnect.org/media/posts/3/baovywebsite2.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-xs.jpg 300w ,https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-sm.jpg 480w ,https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-md.jpg 768w ,https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-lg.jpg 1024w ,https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-xl.jpg 1360w ,https://readingkidsconnect.org/media/posts/3/responsive/baovywebsite2-2xl.jpg 1600w"  alt=""></figure></div>
+<h3 class="name">Baovy Phan</h3>
+<h5 class="position">Outreach Manager</h5>
+<p class="bioInfo">Having joined around early August, Baovy Phan is one of two outreach managers for Reading Kids Connect. As an outreach manager, her job is to network and to promote the program. Some of Baovy’s responsibilities include aiding the publicity of Reading Kids Connect, searching and planning for potential events, editing and formatting newsletter, and creating and posting flyers. Baovy will be a junior at Reading Memorial High School in the fall of 2020.</p>
 </div>
 </div>
 </div>
@@ -311,7 +367,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/mission/"/>
         <id>https://readingkidsconnect.org/mission/</id>
 
-        <updated>2020-08-09T13:04:24-04:00</updated>
+        <updated>2020-08-21T18:19:29-04:00</updated>
             <summary>
                 <![CDATA[
                     Mission A mentor is someone who allows you to see the hope inside yourself. - Oprah Winfrey Mission Statement We are a group of Reading residents participating in a mentorship program to better ourselves and our community. Originally, we started this to provide a way&hellip;
@@ -336,56 +392,6 @@ function myFunction() {
 <li>Give young adults a way to take on additional responsibilities while bettering their community.</li>
 <li>Create a safe place for learning, whether it's academic learning or emotional and mental growth.</li>
 </ul>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Home</title>
-        <author>
-            <name>Jenna Everard</name>
-        </author>
-        <link href="https://readingkidsconnect.org/home/"/>
-        <id>https://readingkidsconnect.org/home/</id>
-
-        <updated>2020-08-09T13:04:24-04:00</updated>
-            <summary>
-                <![CDATA[
-                    Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE: A friendly older student to talk to Personal and academic advice Creative and engaging activities Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor Matches 150&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div class="body">
-<div class="homepageBanner">
-<p class="aroundTitle">Join the</p>
-<h1 class="pageTitle">Reading Kids Connect</h1>
-<p class="aroundTitle">Community</p>
-<p class="description">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>
-<p class="weCanProvide">WE CAN PROVIDE:</p>
-<p class="align-center">A friendly older student to talk to</p>
-<p class="align-center">Personal and academic advice</p>
-<p class="align-center">Creative and engaging activities</p>
-<p class="align-center">Enjoyable, personalized extracurricular learning</p>
-<p class="align-center">LGBTQ+ mentorships</p>
-</div>
-<div id="statistics">
-<div class="statDiv"><i class="fa fa-users icon" aria-hidden="true"></i>
-<p class="number">35</p>
-<div class="line"> </div>
-<p class="numberlabel">Mentor Matches</p>
-</div>
-<div class="statDiv"><i class="fa fa-calendar icon" aria-hidden="true"></i>
-<p class="number">150</p>
-<div class="line"> </div>
-<p class="numberlabel">Sessions</p>
-</div>
-<div class="statDiv"><i class="fa fa-hourglass-half icon" aria-hidden="true"></i>
-<p class="number">12</p>
-<div class="line"> </div>
-<p class="numberlabel">Days to match, on average</p>
-</div>
 </div>
 </div>
             ]]>
