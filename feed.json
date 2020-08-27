@@ -15,14 +15,14 @@
             "url": "https://readingkidsconnect.org/home/",
             "title": "Home",
             "summary": "Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE: A friendly older student to talk to Personal and academic advice Creative and engaging activities Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor Matches 150&hellip;",
-            "content_html": "<div class=\"body\">\n<div class=\"homepageBanner\">\n<p class=\"aroundTitle\">Join the</p>\n<h1 class=\"pageTitle\">Reading Kids Connect</h1>\n<p class=\"aroundTitle\">Community</p>\n<p class=\"description\">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>\n</div>\n<div class=\"secondHomepageBanner\">\n<p class=\"weCanProvide\">WE CAN PROVIDE:</p>\n<p class=\"align-center\">A friendly older student to talk to</p>\n<p class=\"align-center\">Personal and academic advice</p>\n<p class=\"align-center\">Creative and engaging activities</p>\n<p class=\"align-center\">Enjoyable, personalized extracurricular learning</p>\n<p class=\"align-center\">LGBTQ+ mentorships</p>\n</div>\n<div id=\"statistics\">\n<div class=\"statDiv\"><i class=\"fa fa-users icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">35</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Mentor Matches</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-calendar icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">150</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Sessions</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-hourglass-half icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">12</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Days to match, on average</p>\n</div>\n</div>\n</div>",
+            "content_html": "<div class=\"body\">\n<div class=\"homepageBanner\">\n<p class=\"aroundTitle\">Join the</p>\n<h1 class=\"pageTitle\">Reading Kids Connect</h1>\n<p class=\"aroundTitle\">Community</p>\n<p class=\"description\">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>\n</div>\n<div class=\"secondBannerWrapper\">\n<div class=\"secondHomepageBanner\">\n<p class=\"weCanProvide\">WE CAN PROVIDE:</p>\n<p class=\"align-left\">A friendly older student to talk to</p>\n<p class=\"align-left\">Personal and academic advice</p>\n<p class=\"align-left\">Creative and engaging activities</p>\n<p class=\"align-left\">Enjoyable, personalized extracurricular learning</p>\n<p class=\"align-left\">LGBTQ+ mentorships</p>\n</div>\n<div class=\"redHomepageImage\"><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://readingkidsconnect.org/media/posts/1/HomepageRedImageSquare.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-xs.jpg 300w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-sm.jpg 480w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-md.jpg 768w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-lg.jpg 1024w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-xl.jpg 1360w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-2xl.jpg 1600w\"  alt=\"A happy mentor and a happy mentee!\"></figure></div>\n</div>\n<div id=\"statistics\">\n<div class=\"statDiv\"><i class=\"fa fa-users icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">35</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Mentor Matches</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-calendar icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">150</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Sessions</p>\n</div>\n<div class=\"statDiv\"><i class=\"fa fa-hourglass-half icon\" aria-hidden=\"true\"></i>\n<p class=\"number\">12</p>\n<div class=\"line\"> </div>\n<p class=\"numberlabel\">Days to match, on average</p>\n</div>\n</div>\n</div>",
             "author": {
                 "name": "Jenna Everard"
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/privacy-policy/",
@@ -35,8 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/newsletter/",
@@ -49,8 +49,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/contact/",
@@ -63,8 +63,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/testimonials/",
@@ -77,8 +77,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/how-it-works/",
@@ -91,8 +91,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/team/",
@@ -105,8 +105,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         },
         {
             "id": "https://readingkidsconnect.org/mission/",
@@ -119,8 +119,8 @@
             },
             "tags": [
             ],
-            "date_published": "2020-08-24T18:37:40-07:00",
-            "date_modified": "2020-08-24T18:37:40-07:00"
+            "date_published": "2020-08-26T17:03:51-07:00",
+            "date_modified": "2020-08-26T17:03:51-07:00"
         }
     ]
 }

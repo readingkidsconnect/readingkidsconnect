@@ -17,7 +17,7 @@
         <link href="https://readingkidsconnect.org/home/"/>
         <id>https://readingkidsconnect.org/home/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Join the Community A virtual program for Reading high school and college students mentoring kids ages 7-15 WE CAN PROVIDE: A friendly older student to talk to Personal and academic advice Creative and engaging activities Enjoyable, personalized extracurricular learning LGBTQ+ mentorships 35 Mentor Matches 150&hellip;
@@ -32,13 +32,16 @@
 <p class="aroundTitle">Community</p>
 <p class="description">A virtual program for Reading high school and college students mentoring kids ages 7-15</p>
 </div>
+<div class="secondBannerWrapper">
 <div class="secondHomepageBanner">
 <p class="weCanProvide">WE CAN PROVIDE:</p>
-<p class="align-center">A friendly older student to talk to</p>
-<p class="align-center">Personal and academic advice</p>
-<p class="align-center">Creative and engaging activities</p>
-<p class="align-center">Enjoyable, personalized extracurricular learning</p>
-<p class="align-center">LGBTQ+ mentorships</p>
+<p class="align-left">A friendly older student to talk to</p>
+<p class="align-left">Personal and academic advice</p>
+<p class="align-left">Creative and engaging activities</p>
+<p class="align-left">Enjoyable, personalized extracurricular learning</p>
+<p class="align-left">LGBTQ+ mentorships</p>
+</div>
+<div class="redHomepageImage"><figure class="post__image"><img loading="lazy"  src="https://readingkidsconnect.org/media/posts/1/HomepageRedImageSquare.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-xs.jpg 300w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-sm.jpg 480w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-md.jpg 768w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-lg.jpg 1024w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-xl.jpg 1360w ,https://readingkidsconnect.org/media/posts/1/responsive/HomepageRedImageSquare-2xl.jpg 1600w"  alt="A happy mentor and a happy mentee!"></figure></div>
 </div>
 <div id="statistics">
 <div class="statDiv"><i class="fa fa-users icon" aria-hidden="true"></i>
@@ -69,7 +72,7 @@
         <link href="https://readingkidsconnect.org/privacy-policy/"/>
         <id>https://readingkidsconnect.org/privacy-policy/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Privacy Policy For the purposes of this document, “we” refers to Reading Kids Connect. At Reading Kids Connect, we are committed above all to the safety and privacy of all participants. What personal information does Reading Kids Connect collect? How do we use personal information?&hellip;
@@ -164,7 +167,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/newsletter/"/>
         <id>https://readingkidsconnect.org/newsletter/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Newsletter Stay up to date! Our newsletter has the latest updates from Reading Kids Connect, as well as articles, activities, and event information. 07/29/2020 - 08/11/2020 07/15/2020 - 07/28/2020 07/01/2020 - 07/14/2020 06/15/2020 - 06/29/2020 06/01/2020 - 06/14/2020
@@ -212,7 +215,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/contact/"/>
         <id>https://readingkidsconnect.org/contact/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     ContactEmail us at readingkidsconnect@gmail.com or fill out the form below.Loading… 
@@ -242,7 +245,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/testimonials/"/>
         <id>https://readingkidsconnect.org/testimonials/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Testimonials My son really enjoys learning and playing games with his mentor. Alexa has gone above and beyond anything I expected. We are so grateful for her. She is an amazing role model and I would consider her part of our family now, she is&hellip;
@@ -278,7 +281,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/how-it-works/"/>
         <id>https://readingkidsconnect.org/how-it-works/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     How It Works Finding a Mentor Becoming a MentorYou fill out a Google form. We'll get some basic information about you, your interests, and your experience.You have a short, virtual interview where we ask you a few questions about your experience and interests and tell&hellip;
@@ -321,7 +324,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/team/"/>
         <id>https://readingkidsconnect.org/team/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Team Madeline Liberman (She/Her/Hers) founded Reading Kids Connect in May of 2020. As Director, she is responsible for intake and support of mentors and mentees, administration, and development. Madeline is also a mentor with the virtual mentorship program Hearts Over Hands. In high school, she&hellip;
@@ -374,7 +377,7 @@ function myFunction() {
         <link href="https://readingkidsconnect.org/mission/"/>
         <id>https://readingkidsconnect.org/mission/</id>
 
-        <updated>2020-08-24T18:37:40-07:00</updated>
+        <updated>2020-08-26T17:03:51-07:00</updated>
             <summary>
                 <![CDATA[
                     Mission A mentor is someone who allows you to see the hope inside yourself. - Oprah Winfrey Mission Statement We are a group of Reading residents participating in a mentorship program to better ourselves and our community. Originally, we started this to provide a way&hellip;
